@@ -1,6 +1,6 @@
 
 
-[![Eylen's stats](https://github-readme-stats.vercel.app/api?username=eylenkim&count_private=true&show_icons=true&theme=cobalt)](https://github.com/eylenkim/github-readme-stats)
+<!-- [![Eylen's stats](https://github-readme-stats.vercel.app/api?username=eylenkim&count_private=true&show_icons=true&theme=cobalt)](https://github.com/eylenkim/github-readme-stats) -->
 
 <!--
 Here are some ideas to get you started:
